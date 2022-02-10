@@ -93264,7 +93264,7 @@ function App() {
     bg: "dark",
     variant: "dark"
   }, "  ", /*#__PURE__*/_react.default.createElement(_reactBootstrap.Container, null, /*#__PURE__*/_react.default.createElement(_reactBootstrap.Navbar.Brand, {
-    href: "/"
+    href: "https://ntx50.github.io/blogchain/#/"
   }, /*#__PURE__*/_react.default.createElement("h1", {
     style: {
       marginLeft: "1rem",
@@ -93277,7 +93277,7 @@ function App() {
   }, /*#__PURE__*/_react.default.createElement(_reactBootstrap.Nav, {
     className: "me-auto"
   }, /*#__PURE__*/_react.default.createElement(_reactBootstrap.Nav.Link, {
-    href: "/"
+    href: "https://ntx50.github.io/blogchain/#/"
   }, "Home"), /*#__PURE__*/_react.default.createElement(_reactBootstrap.Nav.Link, {
     href: "#/newpoll"
   }, "New Record")), /*#__PURE__*/_react.default.createElement(_reactBootstrap.Nav, null, /*#__PURE__*/_react.default.createElement(_reactBootstrap.Nav.Link, {
@@ -93339,7 +93339,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "40061" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "40933" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
